@@ -30,7 +30,7 @@ src/.vitepress/dist
 ```
 Root directory:No need to fill in
 
-Suggest deploying this project using CloudFlare's Workers and Pages.
+It is recommended to deploy this project using CloudFlare's Workers and Pages. Because it is possible to automate the deployment of modified code on GitHub directly on CloudFlare, saving time and effort!
 
 ## Contribution and Feedback
 
