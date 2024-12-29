@@ -9,7 +9,7 @@ hero:
   text: Pioneering Frontiers Shaping Tomorrow
   tagline: UopyTechSpeak Website
   image:
-    src: /img/190174032.svg
+    src: https://avatars.githubusercontent.com/u/190174032?v=4
     alt: SoybeanAdmin
   actions:
     - theme: brand
