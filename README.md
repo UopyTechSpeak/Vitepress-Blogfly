@@ -34,5 +34,5 @@ It is recommended to deploy this project using CloudFlare's Workers and Pages. B
 
 ## Contribution and Feedback
 
-- Submit on GitHub platform：[issues](https://github.com/UopyTechSpeak/CompuMon/issues)
+- Submit on GitHub platform：[issues](https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/issues)
 - Send an email to：`kejiyuzhe@gmail.com`
