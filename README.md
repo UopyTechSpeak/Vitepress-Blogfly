@@ -1,5 +1,16 @@
 # Website based on Vitepress
 
+<p align="center" class="shields">
+  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub issues"/></a>
+  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub stars"/></a>
+  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub forks"/></a>
+  
+  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/UopyTechSpeak/UopyTechSpeak.github.io" alt="GitHub License"/></a>
+    
+</p>
+
 > [!NOTE]  
 > This open source project is based on Vitepress and is a beautified version. It is open source for developers to use. Please note to label the original author, adaptation author, and open source agreement!
 >
