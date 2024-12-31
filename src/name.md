@@ -4,6 +4,6 @@
 The ranking is not in any particular order, only those who contribute to open source projects on GitHub will be listed here. To express gratitude, the link to the contributors' GitHub homepage has been posted.
 
 ### Core contributors
-- GitHub：[UopyTechSpeak](https://github.com/UopyTechSpeak)   <p>Contribution project:CompuMon</p>
+- UopyTechSpeak：[UopyTechSpeak](https://github.com/UopyTechSpeak)   <p>Contribution project:CompuMon</p>
 
 ### Participating contributors

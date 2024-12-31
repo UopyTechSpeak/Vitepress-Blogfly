@@ -1,11 +1,6 @@
 # Computer dynamic hardware monitoring dashboard
 
-<p align="center" class="language" title="Language selection 语言选择">
-  <a href="./CompuMon-CN">简体中文</a> | 
-  <a href="./CompuMon">English</a>
-</p>
-
-<p>Open source protocol：<a href="./CompuMon.txt">Apache-2.0 license</a></p>
+<p>Open source protocol：<a href="https://github.com/UopyTechSpeak/CompuMon/blob/main/LICENSE">Apache-2.0 license</a></p>
 <p>Open source address：<a href="https://github.com/UopyTechSpeak/UopyTechSpeak">GitHub</a></p>
 
 <img src="./V0.0.1.png" width="2199px">
