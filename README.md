@@ -1,16 +1,14 @@
-#Vitepress-Blogfly 
-
-## Website based on Vitepress
+# Vitepress-Blogfly(Website-based-on-Vitepress)
 
 <p align="center" class="shields">
    <a href="https://img.shields.io/github/repo-size/UopyTechSpeak/Website-based-on-Vitepress?color=fa0" style="text-decoration:none"><img src="https://img.shields.io/github/repo-size/UopyTechSpeak/Website-based-on-Vitepress?color=fa0" alt="repo-size"/></a>
-  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub issues"/></a>
-  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub stars"/></a>
-  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/network" style="text-decoration:none">
-    <img src="https://img.shields.io/github/forks/UopyTechSpeak/UopyTechSpeak.github.io.svg" alt="GitHub forks"/></a>
+  <a href="https://github.com/UopyTechSpeak/Vitepress-Blogfly/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/UopyTechSpeak/Vitepress-Blogfly.svg" alt="GitHub issues"/></a>
+  <a href="https://github.com/UopyTechSpeak/Vitepress-Blogfly/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/UopyTechSpeak/Vitepress-Blogfly.svg" alt="GitHub stars"/></a>
+  <a href="https://github.com/UopyTechSpeak/Vitepress-Blogfly/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/UopyTechSpeak/Vitepress-Blogfly.svg" alt="GitHub forks"/></a>
   
-  <a href="https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/blob/master/LICENSE" style="text-decoration:none">
-    <img src="https://img.shields.io/github/license/UopyTechSpeak/UopyTechSpeak.github.io" alt="GitHub License"/></a>
+  <a href="https://github.com/UopyTechSpeak/Vitepress-Blogfly/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/UopyTechSpeak/Vitepress-Blogfly" alt="GitHub License"/></a>
     
 </p>
 
@@ -19,7 +17,7 @@
 >
 > Original project address:https://github.com/vuejs/vitepress
 > 
-> Beautification version project address:https://github.com/UopyTechSpeak/UopyTechSpeak.github.io
+> Beautification version project address:https://github.com/UopyTechSpeak/Vitepress-Blogfly
 
 ## Deployment Tutorial
 
@@ -48,5 +46,5 @@ It is recommended to deploy this project using CloudFlare's Workers and Pages. B
 
 ## Contribution and Feedback
 
-- Submit on GitHub platform：[issues](https://github.com/UopyTechSpeak/UopyTechSpeak.github.io/issues)
+- Submit on GitHub platform：[issues](https://github.com/UopyTechSpeak/Vitepress-Blogfly/issues)
 - Send an email to：`kejiyuzhe@gmail.com`
