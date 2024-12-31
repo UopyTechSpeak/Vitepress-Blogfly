@@ -12,6 +12,7 @@ export default defineConfig({
         text: 'Project introduction',
         items: [
           { text: 'CompuMon', link: '/project/CompuMon' },
+          { text: 'Vitepress-Blogfly', link: '/project/Vitepress-Blogfly' },
           { text: 'Under development', link: '/not' }
         ]
       },
