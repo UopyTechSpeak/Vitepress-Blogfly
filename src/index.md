@@ -48,4 +48,4 @@ features:
 
 ----
 <div align="center">The theme used on this site: <a href="https://vitepress.dev/" target="_blank">vitepress</a></div>
-<div align="center">Copyright © 2024 <a href="/" target="_blank">UopyTechSpeak</a> All Rights Reserved.</div>
+<div align="center">Copyright © 2024~2025 <a href="/" target="_blank">UopyTechSpeak</a> All Rights Reserved.</div>
