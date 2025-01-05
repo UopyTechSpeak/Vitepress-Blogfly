@@ -5,12 +5,12 @@
     <div class="container">
       <section class="grid">
         <span class="text">
-          本站总访问量
+          The total number of visits to this site
           <span id="busuanzi_value_site_pv" class="font-bold">--</span> 次
         </span>
         <img src="/img/op.gif" alt="heart" width="100" height="100" />
         <span class="text">
-          本站访客数
+          Number of visitors to this site
           <span id="busuanzi_value_site_uv" class="font-bold">--</span> 人次
         </span>
       </section>
